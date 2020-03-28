@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "Maxim Shchutsky <maximuzz@yandex.ru> (https://maximsan.com/)",
   "license": "MIT",
+  "scripts": {
+    "build": "gatsby build"
+  },
   "dependencies": {
     "@reach/dialog": "^0.9.1",
     "@reach/tabs": "^0.9.1",
